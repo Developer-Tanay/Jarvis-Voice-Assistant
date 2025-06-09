@@ -153,7 +153,7 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 ## 📬 Contact
 
 For questions or support, reach out via [GitHub Issues](https://github.com/Developer-Tanay/Jarvis-Voice-Assistant
-/issues) or email **[your.email@example.com](mailto:pault4245@gmail.com)**.
+/issues) or email **[pault4245@gmail.com](mailto:pault4245@gmail.com)**.
 
 ---
 
