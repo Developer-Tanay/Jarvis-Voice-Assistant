@@ -1,8 +1,6 @@
 ````markdown
 # Jarvis: Voice-Controlled Desktop Assistant 🤖
 
-:contentReference[oaicite:1]{index=1}
-
 ---
 
 ## 🚀 Features
@@ -13,7 +11,7 @@
 - 🤖 Chat and answer via your local LLM
 - 🌦️ Tell you the time and weather
 - ⏻ System commands (shutdown, restart, logout)
-- 🚪 Exit gracefully with “quit” or “stop”
+- 🚪 Exit gracefully with “exit” “quit” or “stop”
 
 ---
 
@@ -32,8 +30,8 @@
 
 1. :contentReference[oaicite:19]{index=19}
    ```bash
-   git clone https://github.com/<your‑username>/Jarvis.git
-   cd Jarvis
+   git clone https://github.com/<your‑username>/Jarvis-Voice-Assistant.git
+   cd Jarvis-Voice-Assistant
 ````
 
 2. Create a virtual environment:
