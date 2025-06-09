@@ -31,7 +31,7 @@
    ```bash
    git clone https://github.com/<your‑username>/Jarvis-Voice-Assistant.git
    cd Jarvis-Voice-Assistant
-   ```
+   ````
 
 2. Create a virtual environment:
 
